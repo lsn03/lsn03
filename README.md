@@ -18,7 +18,7 @@ My contacts:
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2h2cjBlZno4MGpjOXhndzhkNnFhYTN6MWlmbmo1NmdoNzZlc2JnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h58dtf5vTpjulO4M5o/giphy.gif" width="500" width="500" height="500"/>
+<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2h2cjBlZno4MGpjOXhndzhkNnFhYTN6MWlmbmo1NmdoNzZlc2JnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h58dtf5vTpjulO4M5o/giphy.gif" width="500" width="500" height="500"/> -->
 
 <!--
 **lsn03/lsn03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
