@@ -11,11 +11,7 @@
 | ![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![Spring Badge](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) | ![Postgres Badge](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
 | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 
-## Organizations and Repositories
-
-My Organizations:
-- [![E-Documents](https://img.shields.io/badge/E--Documents-Link-<COLOR>?style=for-the-badge)](https://github.com/E-Documents-lsn03)
-
+## Repositories
 My repos:
 - [![Link Tracker](https://img.shields.io/badge/Link_Tracker-Link-<COLOR>?style=for-the-badge)](https://github.com/lsn03/java-2023-backend-second-semester)
 
