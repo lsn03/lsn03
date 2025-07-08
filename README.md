@@ -15,9 +15,7 @@
 My repos:
 - [![Link Tracker](https://img.shields.io/badge/Link_Tracker-Link-<COLOR>?style=for-the-badge)](https://github.com/lsn03/java-2023-backend-second-semester)
 
-## Contact Me
 
-[![Telegram Contact](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/graph_grey)
 
 <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2h2cjBlZno4MGpjOXhndzhkNnFhYTN6MWlmbmo1NmdoNzZlc2JnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h58dtf5vTpjulO4M5o/giphy.gif" width="500" width="500" height="500"/> -->
 
